@@ -16,3 +16,15 @@ I'm Neil from Newcastle, Australia. I love the technology and the person to pers
 
 
 ![DiDi info](https://ilovedidi.github.io/twenty-dollars.png)
+
+
+
+
+
+
+
+
+
+
+
+
