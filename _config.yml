@@ -1,5 +1,5 @@
 title: I Love DiDi in Newcastle
 description: DiDi rideshare tips and promo codes.
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-cayman
