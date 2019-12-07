@@ -14,17 +14,4 @@ I'm Neil from Newcastle, Australia. I love the technology and the person to pers
 
 [Link to DiDi promo code](https://d.didiglobal.com/qMmbYZwXrdCJu).
 
-
-![DiDi info](https://ilovedidi.github.io/twenty-dollars.png)
-
-
-
-
-
-
-
-
-
-
-
-
+[![DiDi info](https://ilovedidi.github.io/twenty-dollars.png)](https://d.didiglobal.com/qMmbYZwXrdCJu)
